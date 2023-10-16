@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Random;
 
 public class Person {
+    //привет
     private List<String> humans = new ArrayList<>();
     HashMap<Integer, String> shoppingCart = new HashMap();
     int sum;
